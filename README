@@ -1,0 +1,9 @@
+CPE 530
+
+Group Members: Jonathan Tan, Pierson Yieh
+
+We played around with the recursion depth limit and how big we can
+go to print out the number and found that recursion limit of 14000
+was the largest before it crashed and we could only print up to 9000.
+
+Our runtime to print primes up to 9000 is 7:15.
